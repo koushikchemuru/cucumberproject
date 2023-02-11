@@ -1,0 +1,6 @@
+fortrainingapp\base\Base.class
+mindq\fortrainingapp\App.class
+fortrainingapp\pageobjects\LoginPageObjects.class
+fortrainingapp\pageobjects\AllProjectsPageObjects.class
+fortrainingapp\pageobjects\SignupPageObjects.class
+fortrainingapp\stepdefinitions\LoginStepDefinitions.class
